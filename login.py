@@ -12,3 +12,4 @@ echo "You are not of age to join this class"
 fi
 #this script is only for adult basic education
 #Use this to check the age of interested student 
+#student will be aloowed if the meet the age bracket
